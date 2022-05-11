@@ -1,0 +1,5 @@
+#+TITLE: Mathe
+
+** Übungsklausuren
+* DONE Klasur zu ende bearbeiten
+DEADLINE: <2022-04-03 Sun> SCHEDULED: <2022-04-03 Sun>

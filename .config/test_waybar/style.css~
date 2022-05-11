@@ -1,0 +1,19 @@
+* {
+	border:none;
+	border-radius:0;
+}
+
+
+
+
+window#waybar{
+	background:transparent;
+	color:white;
+}
+
+#window{
+	margin-top:5px;
+	}
+
+
+

@@ -1,0 +1,9 @@
+#!/usr/bin/bash
+
+current_dir=$(pwd)
+
+echo $current_dir
+
+scp "${current_dir}/${1}"  "conni1410@${2}${3}"
+
+

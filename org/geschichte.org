@@ -1,0 +1,11 @@
+#+TITLE: Geschichte
+
+** Kleine Deutsche Geschichte
+* DONE [#A] II.Aufbruch und Abbruch lesen
+SCHEDULED: <2022-04-03 Sun>
+
+* DONE [#B] III. Abenddämmerung über das deutsche Reich lesen
+DEADLINE: <2022-04-05 Tue> SCHEDULED: <2022-04-04 Mon>
+
+* TODO IV. Geburt der deutschen Nation lesen
+DEADLINE: <2022-04-07 Fri> SCHEDULED: <2022-04-06 Thu>

@@ -1,0 +1,57 @@
+{"level":30,"time":"2022-04-14T19:28:25.195Z","pid":9910,"hostname":"susetop","msg":"app ready"}
+{"level":30,"time":"2022-04-14T19:28:25.196Z","pid":9910,"hostname":"susetop","msg":"starting version 5.33.0"}
+{"level":30,"time":"2022-04-14T19:28:25.197Z","pid":9910,"hostname":"susetop","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2022-04-14T19:28:25.199Z","pid":9910,"hostname":"susetop","msg":"MainSQL: updateSchema:\n  Current user_version: 50;\n  Most recent db schema: 50;\n  SQLite version: 3.36.0;\n  SQLCipher version: 4.5.0 community;\n  (deprecated) schema_version: 254;\n"}
+{"level":30,"time":"2022-04-14T19:28:25.202Z","pid":9910,"hostname":"susetop","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-04-14T19:28:25.205Z","pid":9910,"hostname":"susetop","msg":"getSystemTraySetting saw --use-tray-icon flag. Returning MinimizeToSystemTray"}
+{"level":30,"time":"2022-04-14T19:28:25.206Z","pid":9910,"hostname":"susetop","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":958,\"height\":1048,\"minWidth\":712,\"minHeight\":550,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"backgroundColor\":\"#3a76f0\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"contextIsolation\":false,\"preload\":\"[REDACTED]/preload.bundle.js\",\"nativeWindowOpen\":true,\"backgroundThrottling\":false,\"enablePreferredSizeMode\":true},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":961,\"y\":31}"}
+{"level":30,"time":"2022-04-14T19:28:25.332Z","pid":9910,"hostname":"susetop","msg":"spellcheck: user locale: en"}
+{"level":30,"time":"2022-04-14T19:28:25.332Z","pid":9910,"hostname":"susetop","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2022-04-14T19:28:25.332Z","pid":9910,"hostname":"susetop","msg":"spellcheck: setting languages to:  [\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\"]"}
+{"level":30,"time":"2022-04-14T19:28:25.353Z","pid":9910,"hostname":"susetop","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-04-14T19:28:25.377Z","pid":9910,"hostname":"susetop","msg":"System tray service: created"}
+{"level":30,"time":"2022-04-14T19:28:25.378Z","pid":9910,"hostname":"susetop","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2022-04-14T19:28:25.378Z","pid":9910,"hostname":"susetop","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-04-14T19:28:25.379Z","pid":9910,"hostname":"susetop","msg":"System tray service: enabling"}
+{"level":30,"time":"2022-04-14T19:28:25.379Z","pid":9910,"hostname":"susetop","msg":"System tray service: rendering the tray"}
+{"level":30,"time":"2022-04-14T19:28:25.379Z","pid":9910,"hostname":"susetop","msg":"System tray service: creating the tray"}
+{"level":30,"time":"2022-04-14T19:28:25.406Z","pid":9910,"hostname":"susetop","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-04-14T19:28:25.423Z","pid":9910,"hostname":"susetop","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2022-04-14T19:28:25.427Z","pid":9910,"hostname":"susetop","msg":"Finish ensuring permissions in 21ms"}
+{"level":30,"time":"2022-04-14T19:28:27.874Z","pid":9910,"hostname":"susetop","msg":"main window is ready-to-show"}
+{"level":30,"time":"2022-04-14T19:28:27.874Z","pid":9910,"hostname":"susetop","msg":"showing main window"}
+{"level":30,"time":"2022-04-14T19:28:27.875Z","pid":9910,"hostname":"susetop","msg":"System tray service: rendering the tray"}
+{"level":30,"time":"2022-04-14T19:28:29.049Z","pid":9910,"hostname":"susetop","msg":"sending `database-ready`"}
+{"level":30,"time":"2022-04-14T19:28:29.192Z","pid":9910,"hostname":"susetop","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2022-04-14T19:28:32.128Z","pid":9910,"hostname":"susetop","msg":"System tray service: setting unread count to 2"}
+{"level":30,"time":"2022-04-14T19:28:32.128Z","pid":9910,"hostname":"susetop","msg":"System tray service: rendering the tray"}
+{"level":30,"time":"2022-04-14T19:28:48.808Z","pid":9910,"hostname":"susetop","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2022-04-14T19:28:48.851Z","pid":9910,"hostname":"susetop","msg":"App loaded - time: 23664"}
+{"level":30,"time":"2022-04-14T19:28:48.852Z","pid":9910,"hostname":"susetop","msg":"SQL init - time: 166"}
+{"level":30,"time":"2022-04-14T19:28:48.852Z","pid":9910,"hostname":"susetop","msg":"Preload - time: 1666"}
+{"level":30,"time":"2022-04-14T19:28:48.852Z","pid":9910,"hostname":"susetop","msg":"WebSocket connect - time: 1892"}
+{"level":30,"time":"2022-04-14T19:28:48.852Z","pid":9910,"hostname":"susetop","msg":"Processed count: 1242"}
+{"level":30,"time":"2022-04-14T19:28:48.852Z","pid":9910,"hostname":"susetop","msg":"Messages per second: 61.77260519247986"}
+{"level":30,"time":"2022-04-14T19:28:50.110Z","pid":9910,"hostname":"susetop","msg":"System tray service: setting unread count to 1"}
+{"level":30,"time":"2022-04-14T19:28:50.111Z","pid":9910,"hostname":"susetop","msg":"System tray service: rendering the tray"}
+{"level":30,"time":"2022-04-14T19:28:56.109Z","pid":9910,"hostname":"susetop","msg":"MainSQL: slow query saveMessage duration=45ms"}
+{"level":30,"time":"2022-04-14T19:29:07.577Z","pid":9910,"hostname":"susetop","msg":"MainSQL: slow query saveMessage duration=107ms"}
+{"level":30,"time":"2022-04-14T19:29:17.534Z","pid":9910,"hostname":"susetop","msg":"MainSQL: slow query saveMessage duration=45ms"}
+{"level":30,"time":"2022-04-14T19:33:29.135Z","pid":9910,"hostname":"susetop","msg":"MainSQL: slow query deleteSentProtosOlderThan duration=66ms"}
+{"level":30,"time":"2022-04-14T19:36:54.651Z","pid":9910,"hostname":"susetop","msg":"MainSQL: slow query saveMessage duration=41ms"}
+{"level":30,"time":"2022-04-14T19:36:56.074Z","pid":9910,"hostname":"susetop","msg":"System tray service: setting unread count to 0"}
+{"level":30,"time":"2022-04-14T19:36:56.074Z","pid":9910,"hostname":"susetop","msg":"System tray service: rendering the tray"}
+{"level":30,"time":"2022-04-14T19:37:40.415Z","pid":9910,"hostname":"susetop","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-04-14T19:37:40.416Z","pid":9910,"hostname":"susetop","msg":"System tray service: rendering the tray"}
+{"level":30,"time":"2022-04-14T19:39:05.506Z","pid":9910,"hostname":"susetop","msg":"System tray service: quitting the app from the context menu"}
+{"level":30,"time":"2022-04-14T19:39:05.506Z","pid":9910,"hostname":"susetop","msg":"before-quit event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-04-14T19:39:05.507Z","pid":9910,"hostname":"susetop","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2022-04-14T19:39:05.507Z","pid":9910,"hostname":"susetop","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-04-14T19:39:05.507Z","pid":9910,"hostname":"susetop","msg":"System tray service: not rendering the tray, quitting"}
+{"level":30,"time":"2022-04-14T19:39:05.507Z","pid":9910,"hostname":"susetop","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2022-04-14T19:39:05.610Z","pid":9910,"hostname":"susetop","msg":"MainSQL: slow query close duration=98ms"}
+{"level":30,"time":"2022-04-14T19:39:05.611Z","pid":9910,"hostname":"susetop","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2022-04-14T19:39:05.616Z","pid":9910,"hostname":"susetop","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-04-14T19:39:05.616Z","pid":9910,"hostname":"susetop","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2022-04-14T19:39:05.616Z","pid":9910,"hostname":"susetop","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-04-14T19:39:05.625Z","pid":9910,"hostname":"susetop","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/conni1410/.git'
+let g:netrw_dirhist_2='/usr/share/fonts/ghostscript'
+let g:netrw_dirhist_1='/var/log/chrony'
+let g:netrw_dirhist_0='/var/log'
+let g:netrw_dirhist_9='/var/log/chrony'
+let g:netrw_dirhist_8='/etc'
+let g:netrw_dirhist_7='/home/conni1410/bashscripts'
+let g:netrw_dirhist_6='/etc/ssh'
+let g:netrw_dirhist_5='/etc/ssh/sshd_config.d'
+let g:netrw_dirhist_4='/etc/ssh'

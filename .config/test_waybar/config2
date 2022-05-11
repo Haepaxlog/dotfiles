@@ -1,0 +1,30 @@
+{
+	"layer":"top",
+	"position":"top",
+	"height":24,
+	"modules-left":["sway/workspaces"],
+	"modules-center":["sway/window"],
+	"modules-right":["tray","pulseaudio",
+	"tray":{
+		"spacing":10,
+	},
+	"cpu":{
+		"format":" {usage}%"
+	},
+	"memory":{
+		"format":" {}%
+	},
+	"battery":{
+		"bat":"BAT0",
+		"full-at":95,
+		"states":{
+			"good":95,
+			"warning":30,
+			"critical":15
+		}
+	}	
+
+
+
+}
+

@@ -1,0 +1,42 @@
+[2021-11-22 21:42:40.587] [exthost] [info] Extension host with pid 8447 started
+[2021-11-22 21:42:40.737] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-22 21:42:40.789] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-22 21:42:40.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-22 21:42:41.094] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-22 21:42:41.131] [exthost] [info] Eager extensions activated
+[2021-11-22 21:42:41.141] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-22 21:42:41.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-22 21:42:50.527] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-22 21:42:50.539] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-22 21:42:50.667] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-11-22 21:43:02.774] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2021-11-22 21:43:02.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:css'
+[2021-11-22 21:43:02.871] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-22 21:43:02.893] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-22 21:43:02.939] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-22 21:44:04.336] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: '*'
+[2021-11-22 21:45:12.843] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-22 21:45:12.866] [exthost] [error] TypeError: Cannot read property 'timeTelemetryCollector' of undefined
+	at Object.deactivate (/home/conni1410/.vscode/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:49395:13)
+	at Object.deactivate (/home/conni1410/.vscode/extensions/ms-vscode.cpptools-1.7.1/dist/main.js:54453:27)
+	at w._deactivate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:11449)
+	at /usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9997
+	at Array.map (<anonymous>)
+	at w.deactivateAll (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:99:9985)
+	at b.terminate (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:103:735)
+	at o (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:32681)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:113:30296)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-11-22 21:45:13.867] [exthost] [info] Extension host with pid 8447 exiting with code 0
+[2021-11-22 21:45:15.237] [exthost] [info] Extension host with pid 9252 started
+[2021-11-22 21:45:15.237] [exthost] [info] Skipping acquiring lock for /home/conni1410/.config/Code/User/workspaceStorage/458608e9497e605885e86bcd8769d59f.
+[2021-11-22 21:45:15.481] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-22 21:45:15.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-22 21:45:15.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-22 21:45:15.613] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-22 21:45:15.636] [exthost] [info] Eager extensions activated
+[2021-11-22 21:45:15.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-22 21:45:15.650] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-22 22:43:21.899] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-22 22:43:22.906] [exthost] [info] Extension host with pid 9252 exiting with code 0

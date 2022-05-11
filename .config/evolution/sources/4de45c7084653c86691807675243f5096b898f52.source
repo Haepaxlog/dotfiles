@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=rohdeconstantin@gmail.com
+Enabled=true
+Parent=124ec64f6704647b0b14054e596830e095da71d3
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=206510d6ef50e1b2b9f10147d50fb1f49b7f4fc5
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://7c96a074dc577c18ca27e3aef4088f196a27d5a2/%5bGmail%5d/Entw%c3%bcrfe
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=rohdeconstantin@gmail.com
+Aliases=
+Name=Constantin Rohde
+Organization=
+ReplyTo=
+SignatureUid=none

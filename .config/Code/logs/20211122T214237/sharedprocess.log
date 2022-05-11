@@ -1,0 +1,12 @@
+[2021-11-22 21:43:59.020] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-11-22 21:44:03.380] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/conni1410/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.7.1
+[2021-11-22 21:44:03.875] [sharedprocess] [info] Extracted extension to /home/conni1410/.vscode/extensions/.ff0d6f56-3ffe-450e-86d2-d0cb2e228c65: ms-vscode.cpptools
+[2021-11-22 21:44:03.898] [sharedprocess] [info] Renamed to /home/conni1410/.vscode/extensions/ms-vscode.cpptools-1.7.1
+[2021-11-22 21:44:03.903] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2021-11-22 21:44:03.910] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2021-11-22 21:44:08.315] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes
+[2021-11-22 21:44:09.527] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes /home/conni1410/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2021-11-22 21:44:09.555] [sharedprocess] [info] Extracted extension to /home/conni1410/.vscode/extensions/.506c3e52-d2fc-4b63-a2d1-7f9aefa6c7e7: ms-vscode.cpptools-themes
+[2021-11-22 21:44:09.560] [sharedprocess] [info] Renamed to /home/conni1410/.vscode/extensions/ms-vscode.cpptools-themes-1.0.0
+[2021-11-22 21:44:09.562] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2021-11-22 21:44:09.565] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes

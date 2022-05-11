@@ -1,0 +1,61 @@
+#!/usr/bin/env python3
+
+import sys
+import random
+
+correct_count = 0
+
+def removeDigits(string):
+    answer = []
+    for char in string:
+        if not char.isdigit():
+            answer.append(char)
+    return "".join(answer)
+
+def askEvent(date,event):
+    global correct_count
+    print("Wann war:", event)
+    answer = input()
+    if answer == "exit":
+        print(f"Du hast {correct_count} richtig")
+        sys.exit()
+    if answer == date:
+        print("Korrekt")
+        correct_count += 1
+    else:
+        print("Nächstes Mal")
+
+def chooseEvent(events):
+    return random.choice(list(events.keys()))
+
+try:
+    with open(sys.argv[1]) as file:
+        text = file.read().replace("\n","").replace(" ","")
+except:
+    print("Please supply a markdown file as an argument!")
+    sys.exit()
+
+
+contents = text.split("-")
+for element in contents:
+    if "#" in element:
+        contents.remove(element)
+
+
+date=""
+events={}
+
+for element in contents:
+    date=""
+    for character in element:
+        if character.isdigit():
+            date=f"{date}{character}"
+    if date == "":
+        element = f"{element} (keine Jahreszahl gegeben)"
+    events[removeDigits(element)] = date
+
+
+while True:
+    random.seed()
+    event = chooseEvent(events)
+    askEvent(events[event],event)

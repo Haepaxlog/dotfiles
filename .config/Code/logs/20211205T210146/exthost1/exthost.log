@@ -1,0 +1,23 @@
+[2021-12-05 21:01:48.297] [exthost] [info] Extension host with pid 15169 started
+[2021-12-05 21:01:48.297] [exthost] [info] Skipping acquiring lock for /home/conni1410/.config/Code/User/workspaceStorage/458608e9497e605885e86bcd8769d59f.
+[2021-12-05 21:01:48.370] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-05 21:01:48.382] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-05 21:01:48.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-05 21:01:48.645] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-05 21:01:48.720] [exthost] [info] Eager extensions activated
+[2021-12-05 21:01:48.725] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-05 21:01:48.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-05 21:02:03.876] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-05 21:02:04.881] [exthost] [info] Extension host with pid 15169 exiting with code 0
+[2021-12-05 21:02:05.504] [exthost] [info] Extension host with pid 15442 started
+[2021-12-05 21:02:05.505] [exthost] [info] Skipping acquiring lock for /home/conni1410/.config/Code/User/workspaceStorage/634adb8f92d22e27b6ee26d3bd8f047c.
+[2021-12-05 21:02:05.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-12-05 21:02:05.670] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-12-05 21:02:05.672] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-12-05 21:02:05.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-12-05 21:02:05.779] [exthost] [info] Eager extensions activated
+[2021-12-05 21:02:05.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-12-05 21:02:05.790] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-12-05 21:22:47.330] [exthost] [info] ExtensionService#_doActivateExtension justusadam.language-haskell, startup: false, activationEvent: 'onLanguage:haskell'
+[2021-12-05 21:29:30.898] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-12-05 21:29:31.905] [exthost] [info] Extension host with pid 15442 exiting with code 0

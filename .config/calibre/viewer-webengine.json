@@ -1,0 +1,41 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAPBAAAAHwAAB34AAAQ2AAAAAAAAAAAAAAJ/AAACzwAAAAACAAAAB4AAAAPBAAAAHwAAB34AAAQ2"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACAAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOwA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAADvgAABBgAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Carl Albing and JP Vossen"
+        ],
+        "key": "/home/conni1410/Calibre Library/Carl Albing/bash Cookbook (2)/bash Cookbook - Carl Albing.epub",
+        "pathtoebook": "/home/conni1410/Calibre Library/Carl Albing/bash Cookbook (2)/bash Cookbook - Carl Albing.epub",
+        "timestamp": "2022-04-03T15:03:02.711Z",
+        "title": "bash Cookbook"
+      },
+      {
+        "authors": [
+          "David Griffiths and Dawn Griffiths"
+        ],
+        "key": "/home/conni1410/Calibre Library/David Griffiths/Head First C (5)/Head First C - David Griffiths.epub",
+        "pathtoebook": "/home/conni1410/Calibre Library/David Griffiths/Head First C (5)/Head First C - David Griffiths.epub",
+        "timestamp": "2021-11-22T20:44:55.916Z",
+        "title": "Head First C"
+      }
+    ]
+  }
+}

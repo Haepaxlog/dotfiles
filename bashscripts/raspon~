@@ -1,0 +1,37 @@
+#!/bin/bash
+
+
+args=("$@")
+var=()
+
+
+for value in "${args[@]}"
+do	
+	if nmap -sn 192.168.2.0/24 | grep -q "$value" & PID=$!
+							i=1
+							sp="/-\|"
+							echo -n ' '
+							while [ -d /proc/$PID ]
+								do
+  									printf "\b${sp:i++%${#sp}:1}"
+									sleep 0.25
+							done;
+	then 
+		printf "$value is connected\n"
+	else
+		printf "$value is disconnected\n"
+	fi
+done
+
+
+
+
+#if nmap -sP 192.168.2.108 | grep -q 'scan report for raspberry';
+#then
+#	echo 'raspberry pi 3 is connected'
+#else
+#	echo 'raspberry pi 3 is disconnected'
+
+#fi 
+
+

@@ -1,0 +1,2 @@
+file:///home/conni1410/haskell/tutor/RoundToEven.hs {"mtime":1640429285085,"ctime":1640429274552,"size":22,"etag":"382ocq00qm","orphaned":false,"typeId":""}
+isOdd n = mod n 2 == 1
