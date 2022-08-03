@@ -1,0 +1,6 @@
+langs=turk
+prefer_internal=yes
+video_dir=/ext/lang/vid
+bitrate=32k
+recent_threshold=10
+padding=0.2

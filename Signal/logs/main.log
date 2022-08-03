@@ -1,0 +1,51 @@
+{"level":30,"time":"2022-07-31T20:48:36.757Z","pid":5186,"hostname":"susetop","msg":"app ready"}
+{"level":30,"time":"2022-07-31T20:48:36.758Z","pid":5186,"hostname":"susetop","msg":"starting version 5.42.0"}
+{"level":30,"time":"2022-07-31T20:48:36.758Z","pid":5186,"hostname":"susetop","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2022-07-31T20:48:36.764Z","pid":5186,"hostname":"susetop","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-07-31T20:48:36.767Z","pid":5186,"hostname":"susetop","msg":"getSystemTraySetting had no flags and did no DB lookups. Returning DoNotUseSystemTray"}
+{"level":30,"time":"2022-07-31T20:48:36.768Z","pid":5186,"hostname":"susetop","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":800,\"height\":1048,\"minWidth\":712,\"minHeight\":550,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"backgroundColor\":\"#3a76f0\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"contextIsolation\":false,\"preload\":\"[REDACTED]/preload.bundle.js\",\"backgroundThrottling\":false,\"enablePreferredSizeMode\":true},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":1281,\"y\":31}"}
+{"level":30,"time":"2022-07-31T20:48:37.083Z","pid":5186,"hostname":"susetop","msg":"spellcheck: user locale: en"}
+{"level":30,"time":"2022-07-31T20:48:37.084Z","pid":5186,"hostname":"susetop","msg":"spellcheck: available spellchecker languages:  [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2022-07-31T20:48:37.084Z","pid":5186,"hostname":"susetop","msg":"spellcheck: setting languages to:  [\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\"]"}
+{"level":30,"time":"2022-07-31T20:48:37.110Z","pid":5186,"hostname":"susetop","msg":"MainSQL: updateSchema:\n  Current user_version: 57;\n  Most recent db schema: 57;\n  SQLite version: 3.37.2;\n  SQLCipher version: 4.5.1 community;\n  (deprecated) schema_version: 260;\n"}
+{"level":30,"time":"2022-07-31T20:48:37.111Z","pid":5186,"hostname":"susetop","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2022-07-31T20:48:37.161Z","pid":5186,"hostname":"susetop","msg":"System tray service: created"}
+{"level":30,"time":"2022-07-31T20:48:37.161Z","pid":5186,"hostname":"susetop","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2022-07-31T20:48:37.161Z","pid":5186,"hostname":"susetop","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-07-31T20:48:37.162Z","pid":5186,"hostname":"susetop","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-07-31T20:48:37.172Z","pid":5186,"hostname":"susetop","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2022-07-31T20:48:37.174Z","pid":5186,"hostname":"susetop","msg":"Finish ensuring permissions in 12ms"}
+{"level":30,"time":"2022-07-31T20:48:37.667Z","pid":5186,"hostname":"susetop","msg":"Updating BrowserWindow config: %s {\"maximized\":true,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1878,\"height\":1008,\"x\":21,\"y\":51}"}
+{"level":30,"time":"2022-07-31T20:48:37.670Z","pid":5186,"hostname":"susetop","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2022-07-31T20:48:37.670Z","pid":5186,"hostname":"susetop","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2022-07-31T20:48:39.490Z","pid":5186,"hostname":"susetop","msg":"main window is ready-to-show"}
+{"level":30,"time":"2022-07-31T20:48:39.491Z","pid":5186,"hostname":"susetop","msg":"showing main window"}
+{"level":30,"time":"2022-07-31T20:48:39.492Z","pid":5186,"hostname":"susetop","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-07-31T20:48:40.588Z","pid":5186,"hostname":"susetop","msg":"MainSQL: removeKnownAttachments: About to iterate through 131 messages"}
+{"level":30,"time":"2022-07-31T20:48:40.597Z","pid":5186,"hostname":"susetop","msg":"MainSQL: removeKnownAttachments: Done processing 131 messages"}
+{"level":30,"time":"2022-07-31T20:48:40.597Z","pid":5186,"hostname":"susetop","msg":"MainSQL: removeKnownAttachments: About to iterate through 36 conversations"}
+{"level":30,"time":"2022-07-31T20:48:40.600Z","pid":5186,"hostname":"susetop","msg":"MainSQL: removeKnownAttachments: Done processing 36 conversations"}
+{"level":30,"time":"2022-07-31T20:48:40.604Z","pid":5186,"hostname":"susetop","msg":"deleteAll: deleted 11 files"}
+{"level":30,"time":"2022-07-31T20:48:40.607Z","pid":5186,"hostname":"susetop","msg":"deleteAllBadges: deleted 0 files"}
+{"level":30,"time":"2022-07-31T20:48:40.628Z","pid":5186,"hostname":"susetop","msg":"MainSQL: removeKnownStickers: About to iterate through 225 stickers"}
+{"level":30,"time":"2022-07-31T20:48:40.631Z","pid":5186,"hostname":"susetop","msg":"MainSQL: removeKnownStickers: Done processing 225 stickers"}
+{"level":30,"time":"2022-07-31T20:48:40.631Z","pid":5186,"hostname":"susetop","msg":"deleteAllStickers: deleted 0 files"}
+{"level":30,"time":"2022-07-31T20:48:40.633Z","pid":5186,"hostname":"susetop","msg":"MainSQL: removeKnownDraftAttachments: About to iterate through 36 conversations"}
+{"level":30,"time":"2022-07-31T20:48:40.634Z","pid":5186,"hostname":"susetop","msg":"MainSQL: removeKnownDraftAttachments: Done processing 36 conversations"}
+{"level":30,"time":"2022-07-31T20:48:40.634Z","pid":5186,"hostname":"susetop","msg":"deleteAllDraftAttachments: deleted 0 files"}
+{"level":30,"time":"2022-07-31T20:48:40.636Z","pid":5186,"hostname":"susetop","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2022-07-31T20:48:40.637Z","pid":5186,"hostname":"susetop","msg":"sending `database-ready`"}
+{"level":30,"time":"2022-07-31T20:48:40.663Z","pid":5186,"hostname":"susetop","msg":"Ensuring file permissions for 564 files"}
+{"level":50,"time":"2022-07-31T20:48:40.669Z","pid":5186,"hostname":"susetop","msg":"ensureFilePermissions: Error from chmod ENOENT: no such file or directory, chmod '[REDACTED]/SingletonCookie'"}
+{"level":50,"time":"2022-07-31T20:48:40.669Z","pid":5186,"hostname":"susetop","msg":"ensureFilePermissions: Error from chmod ENOENT: no such file or directory, chmod '[REDACTED]/SingletonLock'"}
+{"level":30,"time":"2022-07-31T20:48:40.699Z","pid":5186,"hostname":"susetop","msg":"Finish ensuring permissions in 63ms"}
+{"level":30,"time":"2022-07-31T20:48:40.817Z","pid":5186,"hostname":"susetop","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2022-07-31T20:48:44.791Z","pid":5186,"hostname":"susetop","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-07-31T20:48:44.792Z","pid":5186,"hostname":"susetop","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2022-07-31T20:48:44.793Z","pid":5186,"hostname":"susetop","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2022-07-31T20:48:45.204Z","pid":5186,"hostname":"susetop","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2022-07-31T20:48:45.227Z","pid":5186,"hostname":"susetop","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false}"}
+{"level":30,"time":"2022-07-31T20:48:45.227Z","pid":5186,"hostname":"susetop","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2022-07-31T20:48:45.227Z","pid":5186,"hostname":"susetop","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2022-07-31T20:48:45.232Z","pid":5186,"hostname":"susetop","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
+{"level":30,"time":"2022-07-31T20:48:45.232Z","pid":5186,"hostname":"susetop","msg":"System tray service: rendering no tray"}
